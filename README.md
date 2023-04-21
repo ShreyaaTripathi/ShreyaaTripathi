@@ -1,5 +1,5 @@
-Hi, I’m Shreya Tripathi
-I’m currently exploring different fields of technology.
+Hi, I’m Shreya Tripathi, 
+currently exploring different fields of technology.
 
 
 <!---
